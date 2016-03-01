@@ -1,0 +1,69 @@
+html {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+  background-color: #f2f2f2;
+}
+
+/*
+img,
+h1,
+body,
+p,
+a {
+  max-width: 25em;
+  padding: 0.5rem;
+}
+*/
+
+section {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+h1, p, a, .btn {
+  text-align: left;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.4rem;
+  padding-top: 1rem;
+  padding-bottom:2rem;
+}
+
+a {
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 0.5rem;
+  text-decoration: none;
+  color: black;
+}
+
+figure img {
+  padding: 0;
+  max-width: 25em;
+}
+
+img,
+figure {
+  padding: 0;
+  margin: 0;
+}
+
+.pic,
+.info {
+  display: inline-block;
+  max-width: 25em;
+  padding: 0.5rem;
+  vertical-align: middle;
+}
+
+.pic {
+}
+
+.info {
+}
